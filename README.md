@@ -1,0 +1,2 @@
+# Modern-Transformer-Anatomy-Architectural-Trade-Offs-and-Hardware-Efficiency
+Constructing a sovereign foundation model requires departing from the legacy Transformer designs of early architectures. The canonical 2017 encoder-decoder Transformer and early GPT-style models relied on Post-Layer Normalization (Post-LN), absolute positional embeddings, standard ReLU/GELU activations, and standard Multi-Head Attention (MHA).
